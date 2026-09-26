@@ -1,0 +1,10 @@
+{
+  "name": "个人模型库｜Mental Models OS",
+  "short_name": "模型库",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#111827",
+  "lang": "zh-CN",
+  "description": "个人决策模型库：检索、调用、反证与行动验证"
+}
